@@ -1,2 +1,2 @@
-# my-css-card
-By doyex
+# proposed website card
+by Abdulrohim Mustapha 
