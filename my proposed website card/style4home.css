@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+  color: white;
+  text-decoration: none;
+}
+.container {
+  width: 100%;
+  height: 100vh;
+  background: #ededff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profile {
+  width: 90%;
+  max-width: 320px;
+  background: #32384f;
+  text-align: center;
+  padding: 30px 20px;
+  box-shadow: 0 10px 040px, rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+}
+.top-icons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  color: white;
+}
+.fa-heart {
+  margin-right: -220px;
+}
+.my-pic {
+  width: 100px;
+  border-radius: 50%;
+}
+.profile h2 {
+  font-weight: 500px;
+  font-size: 22px;
+  margin-top: 20px;
+}
+.btn {
+  text-decoration: none;
+  color: blue;
+  margin-top: auto;
+  padding: 10px 40px;
+  border-radius: 25px;
+  font-size: 12px;
+  background: white;
+  display: inline-block;
+  margin: 10px 0;
+}
+.profile p {
+  font-size: 15px;
+  text-decoration: none;
+}
+.my-pic1 {
+  width: 60px;
+  border-radius: 50%;
+}
+.social-media {
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+}
+
+.social-media h3 {
+  font-weight: 500;
+  font-size: 16px;
+  text-decoration: none;
+}
